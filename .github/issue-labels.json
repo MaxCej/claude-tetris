@@ -1,0 +1,19 @@
+[
+  { "name": "bug", "color": "d73a4a", "description": "Something isn't working as expected" },
+  { "name": "enhancement", "color": "a2eeef", "description": "New feature or improvement request" },
+  { "name": "question", "color": "d876e3", "description": "Question or request for clarification" },
+  { "name": "documentation", "color": "0075ca", "description": "README, CLAUDE.md or other docs" },
+
+  { "name": "area:gameplay", "color": "5319e7", "description": "Pieces, collision, rotation, gravity, line clearing" },
+  { "name": "area:controls", "color": "5319e7", "description": "Keyboard input and key bindings" },
+  { "name": "area:scoring", "color": "5319e7", "description": "Score, lines, level and drop speed" },
+  { "name": "area:rendering", "color": "5319e7", "description": "Canvas drawing, ghost piece, next-piece preview" },
+  { "name": "area:ui", "color": "5319e7", "description": "HTML/CSS layout, side panel, pause/game over overlay" },
+  { "name": "area:performance", "color": "5319e7", "description": "Frame rate, game loop timing, resource usage" },
+
+  { "name": "priority:high", "color": "b60205", "description": "Breaks the game or blocks play" },
+  { "name": "priority:medium", "color": "fbca04", "description": "Noticeable problem or valuable improvement" },
+  { "name": "priority:low", "color": "0e8a16", "description": "Minor issue or nice-to-have" },
+
+  { "name": "needs-info", "color": "ededed", "description": "Not enough detail to diagnose; author input needed" }
+]
